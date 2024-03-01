@@ -11,7 +11,7 @@ This repository contains a console-based Tic Tac Toe game implemented in C++. Th
 - Two-player mode: Play against a friend on the same computer.
 - Customizable Grid: Choose the size of the game board (e.g., 3x3, 4x4, etc.).
 - Win Detection: The game automatically detects when a player has won.
-- Draw Detection: The game ends in a draw when the board is full and no player has won.
+- Draw Detection: The game ends in a draw when the board is full and no player has won!.
 
 ## How to Play
 1. Clone the repository to your local machine.
