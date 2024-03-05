@@ -37,7 +37,7 @@ This repository contains a console-based Tic Tac Toe game implemented in C++. Th
 - Example: To make a move in the center of the board, input "2 2".
 
 ## Customizable Grid
-- When running the game, you can enter the desired grid size (e.g., 3 for a 3x3 grid).
+- When running the game, you can enter the desired grid size (e.g. 3 for a 3x3 grid)
 
 ## Sample Gameplay
 ```
